@@ -20,6 +20,7 @@ private:
     float _previousPointY;
     ci::gl::Texture _myImage;
     std::list<Vec2f> _points;
+    list<Vec2f>::iterator _it;
 
 };
 
@@ -51,10 +52,6 @@ void Paint01App::mouseDown( MouseEvent event )
 
 void Paint01App::update()
 {
-}
-
-void Paint01App::draw()
-{
     if (!_myImage) {
         return;
     }
@@ -75,18 +72,18 @@ void Paint01App::draw()
         _points.push_back(Vec2f(PointA.x - brushWidth / 2, PointA.y - brushHeight / 2));
         PointA += VectorAB;
     }
-     
-    while (!_points.empty()) {
-        list<Vec2f>::iterator it = _points.begin();
-        gl::draw(_myImage, *it);
-        _points.pop_front();
     
-    }
-
     _previousPointX = PointA.x;
     _previousPointY = PointA.y;
+}
 
-
+void Paint01App::draw()
+{
+    while (!_points.empty()) {
+        _it = _points.begin();
+        gl::draw(_myImage, *_it);
+        _points.pop_front();
+    }
 }
 
 CINDER_APP_BASIC( Paint01App, RendererGl() )
