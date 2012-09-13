@@ -2540,12 +2540,12 @@ t1336782579
 s24149
 
 N/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/../src/Paint01App.cpp
-c000000005050F40F000000000000089B
-t1347482639
-s2203
+c000000005051EE7F0000000000000838
+t1347546751
+s2104
 
 N/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app
-t1347482351
+t1347546716
 s102
 
 N/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app/Contents/Info.plist
@@ -2553,8 +2553,8 @@ t1346071716
 s1220
 
 N/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app/Contents/MacOS/Paint01
-t1347482351
-s8668428
+t1347546715
+s8686152
 
 N/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app/Contents/PkgInfo
 t1346071716
@@ -2570,8 +2570,8 @@ t1346071716
 s125
 
 N/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Objects-normal/i386/Paint01App.o
-t1347482351
-s421600
+t1347546715
+s402760
 
 N/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/StaticAnalyzer/normal/i386/Paint01App.plist
 t1346766043
@@ -2614,11 +2614,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc82853ba2b01b641^e92a55ba2b01b641^---0#1#0#--18"Check dependencies36"1548A5E6-FF7F-44F6-843C-394CE0EE9C90-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies35b4adff2502b641^5b5eb1ff2502b641^---0#1#0#--18"Check dependencies36"5C1A7790-2EF2-4733-B10C-DB8FB91EEA18-
 
 CCompileC ./build/Paint01.build/Debug/Paint01.build/Objects-normal/i386/Paint01App.o /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/../src/Paint01App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s369175482.362827
-e369175484.465737
+s369239551.718282
+e369239554.012678
 r1
 xCompileC
 x./build/Paint01.build/Debug/Paint01.build/Objects-normal/i386/Paint01App.o
@@ -2627,7 +2627,7 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/../src/Paint01App.cppd6fc5cba2b01b641^863b77bc2b01b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/../src/Paint01App.cpp0000000000000000^2766"CompileC ./build/Paint01.build/Debug/Paint01.build/Objects-normal/i386/Paint01App.o ../src/Paint01App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -Wno-sign-conversion -iquote /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Paint01-generated-files.hmap -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Paint01-own-target-headers.hmap -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Paint01-all-target-headers.hmap -iquote /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Paint01-project-headers.hmap -iquote../../../../../dev/cinder/cinder_0.8.4_mac/include -iquote../include -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/build/Debug/include -I../../../../../dev/cinder/cinder_0.8.4_mac/boost -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/DerivedSources/i386 -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/DerivedSources -F/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/build/Debug -include /var/folders/xb/tq_d7c6j2qnbt2_57nm0qykw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Paint01_Prefix-aospdoitomlkswghlpysceaaggxa/Paint01_Prefix.pch -MMD -MT dependencies -MF /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Objects-normal/i386/Paint01App.d --serialize-diagnostics /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Objects-normal/i386/Paint01App.dia -c /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/../src/Paint01App.cpp -o /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Objects-normal/i386/Paint01App.o36"F75D7FF4-F5F0-47BC-8DBF-0D4AC33CB4B4-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/../src/Paint01App.cpp1efdb7ff2502b641^753f03022602b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/../src/Paint01App.cpp0000000000000000^2766"CompileC ./build/Paint01.build/Debug/Paint01.build/Objects-normal/i386/Paint01App.o ../src/Paint01App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -Wno-sign-conversion -iquote /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Paint01-generated-files.hmap -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Paint01-own-target-headers.hmap -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Paint01-all-target-headers.hmap -iquote /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Paint01-project-headers.hmap -iquote../../../../../dev/cinder/cinder_0.8.4_mac/include -iquote../include -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/build/Debug/include -I../../../../../dev/cinder/cinder_0.8.4_mac/boost -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/DerivedSources/i386 -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/DerivedSources -F/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/build/Debug -include /var/folders/xb/tq_d7c6j2qnbt2_57nm0qykw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Paint01_Prefix-aospdoitomlkswghlpysceaaggxa/Paint01_Prefix.pch -MMD -MT dependencies -MF /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Objects-normal/i386/Paint01App.d --serialize-diagnostics /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Objects-normal/i386/Paint01App.dia -c /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/../src/Paint01App.cpp -o /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Objects-normal/i386/Paint01App.o36"A78CF731-5762-4F3F-98CF-25F819E100BA-
 
 CCpResource CinderApp.icns ./build/Debug/Paint01.app/Contents/Resources/CinderApp.icns
 s367764516.899401
@@ -2639,14 +2639,14 @@ x./build/Debug/Paint01.app/Contents/Resources/CinderApp.icns
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy ./build/Debug/Paint01.app/Contents/Resources/CinderApp.icns97c7e624a4ebb541^1079e724a4ebb541^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app/Contents/Resources/CinderApp.icns000000000080d041^415"CpResource CinderApp.icns ./build/Debug/Paint01.app/Contents/Resources/CinderApp.icns    cd /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/CinderApp.icns /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app/Contents/Resources36"83AC07C4-70C6-4DF5-A089-4E36D6E5E481-
 
 CLd /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app/Contents/MacOS/Paint01 normal i386
-s369175484.472579
-e369175484.986677
+s369239554.019573
+e369239554.516183
 r1
 xLd
 x/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app/Contents/MacOS/Paint01
 xnormal
 xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Link /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app/Contents/MacOS/Paint015a1179bc2b01b641^c897fcbc2b01b641^---0#0#0#--1048"Ld ./build/Debug/Paint01.app/Contents/MacOS/Paint01 normal i386    cd /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/build/Debug -F/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/build/Debug -filelist /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Objects-normal/i386/Paint01.LinkFileList -mmacosx-version-min=10.6 ../../../../../dev/cinder/cinder_0.8.4_mac/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app/Contents/MacOS/Paint0136"74756BF1-AE14-4CB6-A693-87BA2417100F-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Link /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app/Contents/MacOS/Paint01a41705022602b641^182584022602b641^---0#0#0#--1048"Ld ./build/Debug/Paint01.app/Contents/MacOS/Paint01 normal i386    cd /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/build/Debug -F/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/build/Debug -filelist /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Objects-normal/i386/Paint01.LinkFileList -mmacosx-version-min=10.6 ../../../../../dev/cinder/cinder_0.8.4_mac/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app/Contents/MacOS/Paint0136"9A6EB7D6-2A9A-4956-860C-DB75A450EB8B-
 
 CProcessInfoPlistFile /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app/Contents/Info.plist Info.plist
 s367764516.868758
@@ -2687,10 +2687,10 @@ xcom.apple.compilers.llvm.clang.1_0.analyzer
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile Paint01_Prefix.pchf8fcf8583cf6b541^f7721b593cf6b541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/Paint01_Prefix.pch0000000000000000^3123"ProcessPCH++ /var/folders/xb/tq_d7c6j2qnbt2_57nm0qykw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Paint01_Prefix-bsfvbqjspszmnvcqwdwoytpamhvg/Paint01_Prefix.pch.pth Paint01_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.analyzer    cd /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -Wno-sign-conversion -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Paint01-generated-files.hmap -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Paint01-own-target-headers.hmap -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Paint01-all-target-headers.hmap -iquote /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/Paint01-project-headers.hmap -iquote../../../../../dev/cinder/cinder_0.8.4_mac/include -iquote../include -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/build/Debug/include -I../../../../../dev/cinder/cinder_0.8.4_mac/boost -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/DerivedSources/i386 -I/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Paint01.build/Debug/Paint01.build/DerivedSources -F/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/build/Debug -D__clang_analyzer__ -c /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/Paint01_Prefix.pch -o /var/folders/xb/tq_d7c6j2qnbt2_57nm0qykw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Paint01_Prefix-bsfvbqjspszmnvcqwdwoytpamhvg/Paint01_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/xb/tq_d7c6j2qnbt2_57nm0qykw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Paint01_Prefix-bsfvbqjspszmnvcqwdwoytpamhvg/Paint01_Prefix.pch.d36"853EB16F-7736-4801-864D-BC752AD4CBF0-
 
 CTouch /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app
-s369175484.995385
-e369175484.999962
+s369239554.524635
+e369239554.529646
 r1
 xTouch
 x/Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Touch /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app93dffebc2b01b641^15ffffbc2b01b641^---0#0#0#--187"Touch ./build/Debug/Paint01.app    cd /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode    /usr/bin/touch -c /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app36"7A18144A-2F27-4DDA-BB49-E7A36B73D7D4-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Touch /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app3e5c86022602b641^529887022602b641^---0#0#0#--187"Touch ./build/Debug/Paint01.app    cd /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode    /usr/bin/touch -c /Users/andreniet/Dropbox/dev/cinder/Paint01/xcode/./build/Debug/Paint01.app36"311D0B91-7D1D-48DC-943A-A4E024B8F9FF-
 

@@ -492,5 +492,4 @@ dependencies: \
   ../../../../../dev/cinder/cinder_0.8.4_mac/include/cinder/app/TouchEvent.h \
   ../../../../../dev/cinder/cinder_0.8.4_mac/include/cinder/ImageIo.h \
   ../../../../../dev/cinder/cinder_0.8.4_mac/include/cinder/DataTarget.h \
-  ../../../../../dev/cinder/cinder_0.8.4_mac/include/cinder/gl/Texture.h \
-  ../../../../../dev/cinder/cinder_0.8.4_mac/include/cinder/Camera.h
+  ../../../../../dev/cinder/cinder_0.8.4_mac/include/cinder/gl/Texture.h
