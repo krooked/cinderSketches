@@ -39,11 +39,12 @@ void Paint01App::setup()
     gl::enableAlphaBlending();
 }
 
-void Paint01App::prepareSettings( Settings *settings )
+void Paint01App::prepareSettings(Settings *settings)
 {
-	settings->setTitle("Drawing smooth lines using a geometry shader");
-	settings->setWindowSize(800, 800);
-    settings->setFrameRate(220);
+	settings->setTitle("Paint01");
+	settings->setWindowSize(getDisplay().getWidth(), getDisplay().getHeight());
+    settings->setFrameRate(60);
+    settings->setFullScreen();
 }
 
 void Paint01App::mouseDown( MouseEvent event )
